@@ -1,0 +1,21 @@
+﻿<Window x:Class="Prj_NotificationOficial.menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-Prj_NotificationOficial:Prj_NotificationOficial.Controls;assembly=Prj_NotificationOficial"
+        Title="menu" Height="600" Width="600" WindowState="Normal" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Window.Effect>
+        <DropShadowEffect/>
+    </Window.Effect>
+    <Grid Background="Transparent">
+        <Button Content="Notification One" Name="btnNot1" HorizontalAlignment="Left" Margin="42,63,0,0" VerticalAlignment="Top" Width="123" Height="70" Click="btnNot1_Click" >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Content="EXIT" Name="btnExit" HorizontalAlignment="Left" Margin="490,10,0,0" VerticalAlignment="Top" Width="73" Height="53" FontSize="15" Foreground="Red" Click="btnExit_Click" >
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+    </Grid>
+</Window>

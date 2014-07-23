@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="Prj_NotificationOficial.Interfaces.Model2.m2_eye2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="200">
+    <Grid>
+        <Ellipse Fill="#2c271f" HorizontalAlignment="Left" Height="100" Margin="46,48,0,0" Stroke="Black" VerticalAlignment="Top" Width="100">
+            <Ellipse.Effect>
+                <DropShadowEffect/>
+            </Ellipse.Effect>
+        </Ellipse>
+        <Image Source="images/eye2.png" HorizontalAlignment="Left" Height="100" Margin="46,48,0,0" VerticalAlignment="Top" Width="100">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+
+    </Grid>
+</UserControl>

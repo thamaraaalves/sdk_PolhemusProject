@@ -1,0 +1,11 @@
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\TestWB.exe.config
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\obj\Debug\TestWB.csprojResolveAssemblyReference.cache
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\TestWB.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\TestWB.pdb
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\websocket-sharp.dll
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\websocket-sharp.xml
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\obj\Debug\TestWB.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\obj\Debug\TestWB.pdb
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\Alchemy.dll
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\Fleck.dll
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestWB\bin\Debug\tcpServer.dll

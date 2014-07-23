@@ -1,0 +1,6 @@
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestMath\bin\Debug\TestMath.exe.config
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestMath\bin\Debug\TestMath.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestMath\bin\Debug\TestMath.pdb
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestMath\obj\Debug\TestMath.csprojResolveAssemblyReference.cache
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestMath\obj\Debug\TestMath.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\TestMath\obj\Debug\TestMath.pdb

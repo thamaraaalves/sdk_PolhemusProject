@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenPortG4", "listenportg4\ListenPortG4.csproj", "{6EE4D7E1-8F70-467F-A42C-F746747DE4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj_Distance", "Prj_Distance\Prj_Distance.csproj", "{1190D7C8-436F-4454-A2B2-E34A9CC54F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj_Orientation_Notification", "Prj_Orientation_Notification\Prj_Orientation_Notification.csproj", "{A566CDD6-A05D-41F5-B6DF-71D209052347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMath", "TestMath\TestMath.csproj", "{1942191A-B442-47AD-A6D4-5445D292C7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenApplication", "ListenApplication\ListenApplication.csproj", "{A7B12971-D0CE-4844-ABE7-EB1ABBBB04C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj_DBMongo", "Prj_DBMongo\Prj_DBMongo.csproj", "{84D2C5FF-A4B8-41E3-B065-492EF3A771D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prj_GetDataDB", "Prj_GetDataDB\Prj_GetDataDB.csproj", "{0A3A30CE-27FE-43EC-A0FE-8111C6CFE202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWB", "TestWB\TestWB.csproj", "{AFFD0437-6AF0-4245-B5BC-1B7FB4D73232}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://thamara.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = listenportg4\\ListenPortG4.csproj
+		SccProjectName1 = listenportg4
+		SccLocalPath1 = listenportg4
+		SccProjectUniqueName2 = Prj_Distance\\Prj_Distance.csproj
+		SccProjectName2 = Prj_Distance
+		SccLocalPath2 = Prj_Distance
+		SccProjectUniqueName3 = Prj_Orientation_Notification\\Prj_Orientation_Notification.csproj
+		SccProjectName3 = Prj_Orientation_Notification
+		SccLocalPath3 = Prj_Orientation_Notification
+		SccProjectUniqueName4 = TestMath\\TestMath.csproj
+		SccProjectName4 = TestMath
+		SccLocalPath4 = TestMath
+		SccProjectUniqueName5 = ListenApplication\\ListenApplication.csproj
+		SccProjectName5 = ListenApplication
+		SccLocalPath5 = ListenApplication
+		SccProjectUniqueName6 = Prj_DBMongo\\Prj_DBMongo.csproj
+		SccProjectName6 = Prj_DBMongo
+		SccLocalPath6 = Prj_DBMongo
+		SccProjectUniqueName7 = Prj_GetDataDB\\Prj_GetDataDB.csproj
+		SccProjectName7 = Prj_GetDataDB
+		SccLocalPath7 = Prj_GetDataDB
+		SccProjectUniqueName8 = TestWB\\TestWB.csproj
+		SccProjectName8 = TestWB
+		SccLocalPath8 = TestWB
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE4D7E1-8F70-467F-A42C-F746747DE4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE4D7E1-8F70-467F-A42C-F746747DE4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE4D7E1-8F70-467F-A42C-F746747DE4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE4D7E1-8F70-467F-A42C-F746747DE4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1190D7C8-436F-4454-A2B2-E34A9CC54F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1190D7C8-436F-4454-A2B2-E34A9CC54F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1190D7C8-436F-4454-A2B2-E34A9CC54F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1190D7C8-436F-4454-A2B2-E34A9CC54F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A566CDD6-A05D-41F5-B6DF-71D209052347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A566CDD6-A05D-41F5-B6DF-71D209052347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A566CDD6-A05D-41F5-B6DF-71D209052347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A566CDD6-A05D-41F5-B6DF-71D209052347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1942191A-B442-47AD-A6D4-5445D292C7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1942191A-B442-47AD-A6D4-5445D292C7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1942191A-B442-47AD-A6D4-5445D292C7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1942191A-B442-47AD-A6D4-5445D292C7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B12971-D0CE-4844-ABE7-EB1ABBBB04C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B12971-D0CE-4844-ABE7-EB1ABBBB04C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B12971-D0CE-4844-ABE7-EB1ABBBB04C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B12971-D0CE-4844-ABE7-EB1ABBBB04C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D2C5FF-A4B8-41E3-B065-492EF3A771D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D2C5FF-A4B8-41E3-B065-492EF3A771D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D2C5FF-A4B8-41E3-B065-492EF3A771D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D2C5FF-A4B8-41E3-B065-492EF3A771D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3A30CE-27FE-43EC-A0FE-8111C6CFE202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3A30CE-27FE-43EC-A0FE-8111C6CFE202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3A30CE-27FE-43EC-A0FE-8111C6CFE202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3A30CE-27FE-43EC-A0FE-8111C6CFE202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFFD0437-6AF0-4245-B5BC-1B7FB4D73232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFD0437-6AF0-4245-B5BC-1B7FB4D73232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFD0437-6AF0-4245-B5BC-1B7FB4D73232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFD0437-6AF0-4245-B5BC-1B7FB4D73232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

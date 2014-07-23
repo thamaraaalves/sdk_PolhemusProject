@@ -1,0 +1,14 @@
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\obj\Debug\Prj_DBMongo.csprojResolveAssemblyReference.cache
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Prj_DBMongo.exe.config
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Prj_DBMongo.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Prj_DBMongo.pdb
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\obj\Debug\Prj_DBMongo.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\obj\Debug\Prj_DBMongo.pdb
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Prj_GetDataDB.exe
+C:\Users\jigsjazz\Source\Workspaces\Polhemus_last_project\ListenPortG4\Prj_DBMongo\bin\Debug\Prj_GetDataDB.pdb

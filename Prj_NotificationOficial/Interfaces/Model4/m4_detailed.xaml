@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="Prj_NotificationOficial.Interfaces.Model4.Model4_detailed"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="200">
+    <Grid>
+        <Image Source="images/Backlayer.png" HorizontalAlignment="Left" Height="100" Margin="53,53,0,0" VerticalAlignment="Top" Width="100">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image Source="images/Frontlayer.png" HorizontalAlignment="Left" Height="100" Margin="53,53,0,0" VerticalAlignment="Top" Width="100">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image Source="images/Person.png" HorizontalAlignment="Left" Height="30" Margin="87,88,0,0" VerticalAlignment="Top" Width="30">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Image Source="images/Centerlayer.png" HorizontalAlignment="Left" Height="100" Margin="53,53,0,0" VerticalAlignment="Top" Width="100">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+    </Grid>
+</UserControl>
